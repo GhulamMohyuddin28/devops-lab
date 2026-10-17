@@ -1,2 +1,4 @@
 out/
 *.log
+# Editor swap files
+*.swp
